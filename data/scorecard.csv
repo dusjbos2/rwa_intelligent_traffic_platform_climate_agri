@@ -1,0 +1,11 @@
+criterion,status,evidence,evidence type
+A registered mobile device can securely transmit GPS observations,Pass (API self-test),"Validation, device token and role checks tested in B12; TLS and per-device tokens still to deploy",API
+Each observation can be associated with an authorized vehicle,Pass,100% of observations resolve to a consenting device and vehicle,synthetic
+The platform can map-match observations to road segments,Partial,"83.9% correct on moving points, 100.0% matched (optimistic: simulator follows OSM exactly)",synthetic
+The dashboard can display participating vehicles in near real time,Partial,"Fleet map shows vehicles, congestion, incident and routes; near-real-time refresh needs the API + WebSocket",synthetic
+The system can calculate road-level average speed,Pass,3878 segments with space-mean speed in the last 5 min,synthetic
+The system can identify current congestion using calibrated rules,Fail,staged incident missed; thresholds are placeholders until calibrated locally,synthetic
+An eligible public vehicle can be shown to a passenger with an ETA,Pass,8 bus(es) listed; ETA error 14.7 min,synthetic
+The platform can generate a route recommendation using current traffic,Pass,"3 options now, 3 at +15 min",synthetic
+Historical observations can be stored for future ML training,Partial,5869 segments × 14 days of 5-min aggregates and the schema exist; real history must accumulate (simulated here),synthetic
+A pilot sensor can be added without redesigning the core platform,Pass,5 sensors of 4 vendor formats enter through one adapter,synthetic

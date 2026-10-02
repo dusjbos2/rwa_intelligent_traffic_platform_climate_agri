@@ -1,0 +1,8 @@
+Source,What you can get,Typical use,How this system gets it,Status
+Copernicus / ERA5,"Temperature, rainfall, wind, pressure, soil, ocean variables",Historical climate trends,"ERA5 reanalysis via the Open-Meteo archive API (temperature, rain, ET₀) · NOAA ocean indices (ENSO, Indian Ocean Dipole)",LIVE
+NASA Earthdata,"Satellite imagery, vegetation, fires, temperature, precipitation, atmospheric data",Earth observation,"NASA POWER (soil wetness, evaporation, temperature, rain) · MODIS vegetation index (ORNL DAAC)",PARTIAL
+World Bank CCKP,Historical climate + CMIP6 projections,Country/subnational climate analysis,CCKP API: SSP1-2.6 · 2-4.5 · 3-7.0 · 5-8.5,FAILED
+CMIP6 climate models,Future climate projections under different SSP scenarios,Climate-change projections,CMIP6 HighResMIP models (delta method) + CCKP scenario table,PARTIAL
+Satellite imagery,"Land cover, vegetation, water, urbanization",Environmental change,MODIS NDVI trends · Sentinel-2 10 m time series per plot · ESA WorldCover land cover,FALLBACK (synthetic)
+Global agricultural datasets,"Crops, yields, soil, drought",Climate–agriculture relationships,FAOSTAT crop area / production / yield · soil wetness (NASA) · drought model (C4),LIVE
+Population/economic datasets,"Population, poverty, infrastructure, GDP",Climate vulnerability,World Bank WDI · WorldPop (Part A) · WFP crop and food prices,LIVE

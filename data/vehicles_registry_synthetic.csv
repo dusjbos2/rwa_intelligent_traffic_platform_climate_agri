@@ -1,0 +1,151 @@
+vehicle_id,vehicle_type,category,capacity,route,status,public_id
+1,bus,Public Transport,30,Nyabirasi → Bigogwe,Active,BUS-4DFF
+2,bus,Public Transport,30,Butare → Giheke,Active,BUS-40F1
+3,bus,Public Transport,30,Kibeho → Ruhashya,Active,BUS-47FA
+4,bus,Public Transport,30,Gacaca → Kinigi,Active,BUS-F639
+5,bus,Public Transport,30,Muganza (1) → Mamba,Active,BUS-9267
+6,bus,Public Transport,30,Cyanika (1) → Ruhashya,Active,BUS-337D
+7,bus,Public Transport,30,Nyabirasi → Bigogwe,Active,BUS-230E
+8,bus,Public Transport,30,Butare → Giheke,Active,BUS-5533
+9,bus,Public Transport,30,Kibeho → Ruhashya,Active,BUS-0DD0
+10,bus,Public Transport,30,Gacaca → Kinigi,Active,BUS-4026
+11,bus,Public Transport,30,Muganza (1) → Mamba,Active,BUS-74F2
+12,bus,Public Transport,30,Cyanika (1) → Ruhashya,Active,BUS-10B8
+13,car,Private,4,,Active,CAR-896C
+14,taxi,Taxi,4,,Active,TAX-82FC
+15,taxi,Taxi,4,,Active,TAX-6240
+16,bus,Public Transport,30,Nyabirasi → Bigogwe,Active,BUS-59E2
+17,truck,Freight,2,,Active,TRU-E8DF
+18,bus,Public Transport,30,Butare → Giheke,Active,BUS-EA08
+19,bus,Public Transport,30,Kibeho → Ruhashya,Active,BUS-42AB
+20,truck,Freight,2,,Active,TRU-F090
+21,car,Private,4,,Active,CAR-4370
+22,car,Private,4,,Active,CAR-0591
+23,bus,Public Transport,30,Gacaca → Kinigi,Active,BUS-B5F5
+24,car,Private,4,,Active,CAR-C488
+25,car,Private,4,,Active,CAR-0B47
+26,taxi,Taxi,4,,Active,TAX-3E89
+27,taxi,Taxi,4,,Active,TAX-C6DF
+28,motorcycle,Taxi,1,,Active,MOT-6E1B
+29,bus,Public Transport,30,Muganza (1) → Mamba,Active,BUS-EC68
+30,taxi,Taxi,4,,Active,TAX-B269
+31,taxi,Taxi,4,,Active,TAX-B2CA
+32,car,Private,4,,Active,CAR-A051
+33,car,Private,4,,Active,CAR-BE07
+34,car,Private,4,,Active,CAR-58A7
+35,bus,Public Transport,30,Cyanika (1) → Ruhashya,Active,BUS-AA1B
+36,car,Private,4,,Active,CAR-08FB
+37,car,Private,4,,Active,CAR-5705
+38,car,Private,4,,Active,CAR-7588
+39,motorcycle,Taxi,1,,Active,MOT-1816
+40,car,Private,4,,Active,CAR-3F97
+41,car,Private,4,,Active,CAR-73A9
+42,motorcycle,Taxi,1,,Active,MOT-E586
+43,taxi,Taxi,4,,Active,TAX-0243
+44,motorcycle,Taxi,1,,Active,MOT-1E79
+45,bus,Public Transport,30,Nyabirasi → Bigogwe,Active,BUS-D8F4
+46,bus,Public Transport,30,Butare → Giheke,Active,BUS-92D0
+47,car,Private,4,,Active,CAR-B2E7
+48,taxi,Taxi,4,,Active,TAX-8017
+49,taxi,Taxi,4,,Active,TAX-045C
+50,motorcycle,Taxi,1,,Active,MOT-20F7
+51,car,Private,4,,Active,CAR-A809
+52,bus,Public Transport,30,Kibeho → Ruhashya,Active,BUS-7A88
+53,car,Private,4,,Active,CAR-895F
+54,car,Private,4,,Active,CAR-72DC
+55,car,Private,4,,Active,CAR-E61C
+56,car,Private,4,,Active,CAR-2EAC
+57,motorcycle,Taxi,1,,Active,MOT-FE4C
+58,car,Private,4,,Active,CAR-DB9B
+59,truck,Freight,2,,Active,TRU-A334
+60,bus,Public Transport,30,Gacaca → Kinigi,Active,BUS-8146
+61,bus,Public Transport,30,Muganza (1) → Mamba,Active,BUS-FB3E
+62,bus,Public Transport,30,Cyanika (1) → Ruhashya,Active,BUS-710C
+63,bus,Public Transport,30,Nyabirasi → Bigogwe,Active,BUS-01B4
+64,car,Private,4,,Active,CAR-FC72
+65,taxi,Taxi,4,,Active,TAX-DC9A
+66,car,Private,4,,Active,CAR-30EA
+67,taxi,Taxi,4,,Active,TAX-9DAD
+68,car,Private,4,,Active,CAR-F0D4
+69,truck,Freight,2,,Active,TRU-EFBB
+70,car,Private,4,,Active,CAR-2F88
+71,bus,Public Transport,30,Butare → Giheke,Active,BUS-4124
+72,car,Private,4,,Active,CAR-B627
+73,motorcycle,Taxi,1,,Active,MOT-75AC
+74,bus,Public Transport,30,Kibeho → Ruhashya,Active,BUS-A884
+75,car,Private,4,,Active,CAR-15C5
+76,motorcycle,Taxi,1,,Active,MOT-86A8
+77,truck,Freight,2,,Active,TRU-AA36
+78,motorcycle,Taxi,1,,Active,MOT-8288
+79,bus,Public Transport,30,Gacaca → Kinigi,Active,BUS-F098
+80,car,Private,4,,Active,CAR-4435
+81,car,Private,4,,Active,CAR-A133
+82,truck,Freight,2,,Active,TRU-533C
+83,bus,Public Transport,30,Muganza (1) → Mamba,Active,BUS-BC1F
+84,car,Private,4,,Active,CAR-72AB
+85,motorcycle,Taxi,1,,Active,MOT-EB24
+86,bus,Public Transport,30,Cyanika (1) → Ruhashya,Active,BUS-1A1E
+87,bus,Public Transport,30,Nyabirasi → Bigogwe,Active,BUS-7B83
+88,car,Private,4,,Active,CAR-99C5
+89,taxi,Taxi,4,,Active,TAX-6678
+90,car,Private,4,,Active,CAR-4BDF
+91,car,Private,4,,Active,CAR-FA6A
+92,motorcycle,Taxi,1,,Active,MOT-282B
+93,taxi,Taxi,4,,Active,TAX-A540
+94,taxi,Taxi,4,,Active,TAX-9541
+95,car,Private,4,,Active,CAR-9F6E
+96,bus,Public Transport,30,Butare → Giheke,Active,BUS-42F2
+97,car,Private,4,,Active,CAR-AB5F
+98,car,Private,4,,Active,CAR-430A
+99,car,Private,4,,Active,CAR-ACC1
+100,car,Private,4,,Active,CAR-2130
+101,truck,Freight,2,,Active,TRU-87B5
+102,bus,Public Transport,30,Kibeho → Ruhashya,Active,BUS-2807
+103,taxi,Taxi,4,,Active,TAX-7A6D
+104,taxi,Taxi,4,,Active,TAX-087C
+105,motorcycle,Taxi,1,,Active,MOT-9951
+106,car,Private,4,,Active,CAR-8A09
+107,bus,Public Transport,30,Gacaca → Kinigi,Active,BUS-8E38
+108,bus,Public Transport,30,Muganza (1) → Mamba,Active,BUS-CE3D
+109,car,Private,4,,Active,CAR-2947
+110,taxi,Taxi,4,,Active,TAX-1A8D
+111,bus,Public Transport,30,Cyanika (1) → Ruhashya,Active,BUS-FF31
+112,motorcycle,Taxi,1,,Active,MOT-6FCD
+113,car,Private,4,,Active,CAR-6D22
+114,truck,Freight,2,,Active,TRU-BCAF
+115,car,Private,4,,Active,CAR-76ED
+116,bus,Public Transport,30,Nyabirasi → Bigogwe,Active,BUS-82AE
+117,motorcycle,Taxi,1,,Active,MOT-3E67
+118,car,Private,4,,Active,CAR-DC8B
+119,taxi,Taxi,4,,Active,TAX-DD7B
+120,motorcycle,Taxi,1,,Active,MOT-EB18
+121,car,Private,4,,Active,CAR-9107
+122,bus,Public Transport,30,Butare → Giheke,Active,BUS-612A
+123,bus,Public Transport,30,Kibeho → Ruhashya,Active,BUS-9DE5
+124,taxi,Taxi,4,,Active,TAX-B9A1
+125,bus,Public Transport,30,Gacaca → Kinigi,Active,BUS-DFC6
+126,car,Private,4,,Active,CAR-26C4
+127,car,Private,4,,Active,CAR-06A4
+128,car,Private,4,,Active,CAR-6E56
+129,car,Private,4,,Active,CAR-80CD
+130,car,Private,4,,Active,CAR-F8C0
+131,truck,Freight,2,,Active,TRU-C60C
+132,bus,Public Transport,30,Muganza (1) → Mamba,Active,BUS-1B63
+133,car,Private,4,,Active,CAR-C25C
+134,car,Private,4,,Active,CAR-925B
+135,truck,Freight,2,,Active,TRU-5139
+136,taxi,Taxi,4,,Active,TAX-4BF7
+137,truck,Freight,2,,Active,TRU-9774
+138,taxi,Taxi,4,,Active,TAX-900D
+139,taxi,Taxi,4,,Active,TAX-F41D
+140,motorcycle,Taxi,1,,Active,MOT-D003
+141,bus,Public Transport,30,Cyanika (1) → Ruhashya,Active,BUS-654E
+142,bus,Public Transport,30,Nyabirasi → Bigogwe,Active,BUS-7DA1
+143,taxi,Taxi,4,,Active,TAX-8A08
+144,motorcycle,Taxi,1,,Active,MOT-C31C
+145,taxi,Taxi,4,,Active,TAX-A16A
+146,truck,Freight,2,,Active,TRU-D7F4
+147,car,Private,4,,Active,CAR-C2BE
+148,taxi,Taxi,4,,Active,TAX-FB1B
+149,taxi,Taxi,4,,Active,TAX-54F1
+150,truck,Freight,2,,Active,TRU-FA13

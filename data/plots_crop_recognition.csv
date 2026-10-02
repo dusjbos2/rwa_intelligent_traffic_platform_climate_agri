@@ -1,0 +1,6 @@
+plot_id,lat,lon,radius_m,area_m2,pure_pixels,scenes,last_scene,land_cover,label,source,crop_guess,confidence,why,method,reliability
+demo-Kigali,-1.919762251095085,30.153523714228978,15.0,706.8583470577034,12,41,2026-09-20,Tree cover,,Sentinel-2 live,Long-cycle root crop (cassava candidate),0.5,"one slow cycle, 8 months above 75% of peak",phenology rules (no labels),moderate
+demo-Southern,-2.2654507850403047,29.66167287582647,15.0,706.8583470577034,9,86,2026-10-01,Tree cover,,SYNTHETIC,"Annual crop, one season (A): maize, beans, potato…",0.5,single seasonal green-up,phenology rules (no labels),moderate
+demo-Northern,-1.630832457738015,29.920761017812605,15.0,706.8583470577034,9,86,2026-10-01,Cropland,,SYNTHETIC,"Perennial crop or agroforestry (banana, coffee, tea…)",0.55,"green all year, little seasonal swing",phenology rules (no labels),moderate
+demo-Eastern,-1.752740277440485,30.529607601956748,15.0,706.8583470577034,9,86,2026-10-01,Grassland,,SYNTHETIC,Long-cycle root crop (cassava candidate),0.5,"one slow cycle, 6 months above 75% of peak",phenology rules (no labels),moderate
+demo-Western,-2.124825611742215,29.421321448805024,15.0,706.8583470577034,9,86,2026-10-01,Shrubland,,SYNTHETIC,"Annual cereal / legume, two seasons (maize, beans, sorghum…)",0.55,green-up in season A and in season B,phenology rules (no labels),moderate

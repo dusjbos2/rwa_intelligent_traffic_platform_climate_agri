@@ -1,0 +1,9 @@
+Information,Authorized operator,General passenger,Analyst
+Vehicle type,Yes,Yes,Aggregates only
+Route / destination,Yes,Yes,Aggregates only
+Approximate vehicle location,Yes,"Yes, where the service needs it (rounded)",No
+ETA,Yes,Yes,No
+Plate number,"Yes, where operationally required",No — limited public identifier only,No
+Driver personal information,Restricted (not stored in this prototype),No,No
+Raw GPS history,"Restricted, purpose-logged",No,No
+Traffic analytics,Yes,Summary only,Yes

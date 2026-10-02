@@ -1,0 +1,16 @@
+loc,Lead (months),Target month,Drought probability %,Normal frequency %,× normal,Skill,province,Level
+Eastern,1,2026-09,20.77,16.19,1.28,useful,Eastern,Moderate
+Kigali,1,2026-09,8.53,16.19,0.53,useful,Kigali,Low
+Northern,1,2026-09,7.51,16.19,0.46,useful,Northern,Low
+Southern,1,2026-09,4.38,16.19,0.27,useful,Southern,Low
+Western,1,2026-09,26.49,16.19,1.64,useful,Western,Moderate
+Eastern,2,2026-10,14.88,16.23,0.92,useful,Eastern,Low
+Kigali,2,2026-10,9.21,16.23,0.57,useful,Kigali,Low
+Northern,2,2026-10,12.07,16.23,0.74,useful,Northern,Low
+Southern,2,2026-10,6.18,16.23,0.38,useful,Southern,Low
+Western,2,2026-10,33.15,16.23,2.04,useful,Western,High
+Eastern,3,2026-11,28.85,16.26,1.77,weak,Eastern,Moderate
+Kigali,3,2026-11,13.91,16.26,0.85,weak,Kigali,Low
+Northern,3,2026-11,18.0,16.26,1.11,weak,Northern,Moderate
+Southern,3,2026-11,6.2,16.26,0.38,weak,Southern,Low
+Western,3,2026-11,30.37,16.26,1.87,weak,Western,High
